@@ -1,0 +1,9 @@
+Try to get to the end of the level by opening the doors <br> 
+along the way and rearranging parts of the world. <br><br> 
+
+It is up to you to figure out how to progress at each point. <br><br> 
+
+Use WASD keyboard controls to move around. Press "space" to jump. <br><br>
+Click the left mouse button to shoot at items. <br><br>
+
+Press 'q' at any time to reset the level.
